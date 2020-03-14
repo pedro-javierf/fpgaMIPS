@@ -1,0 +1,26 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/software/electronica/xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto df833e004c2a41459fb30b4c2d587656 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TestBenchMIPSMulticycle_behav xil_defaultlib.TestBenchMIPSMulticycle -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture controlunitarch of entity xil_defaultlib.controlUnit [controlunit_default]
+Compiling architecture multiplexer4to1arch of entity xil_defaultlib.multiplexer4to1 [multiplexer4to1_default]
+Compiling architecture regarch of entity xil_defaultlib.reg [reg_default]
+Compiling architecture multiplexer2to1arch of entity xil_defaultlib.multiplexer2to1 [multiplexer2to1_default]
+Compiling architecture behavioral of entity xil_defaultlib.BlockRam [blockram_default]
+Compiling architecture memory_arch of entity xil_defaultlib.memory [memory_default]
+Compiling architecture multiplexer2to1arch of entity xil_defaultlib.multiplexer2to1 [\multiplexer2to1(bits_inputs=5)\]
+Compiling architecture registerbankarch of entity xil_defaultlib.registerBank [registerbank_default]
+Compiling architecture aluarch of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture datapatharch of entity xil_defaultlib.dataPath [datapath_default]
+Compiling architecture mipsmulticyclearch of entity xil_defaultlib.MIPSMulticycle [mipsmulticycle_default]
+Compiling architecture behavior of entity xil_defaultlib.testbenchmipsmulticycle
+Built simulation snapshot TestBenchMIPSMulticycle_behav

@@ -1,0 +1,22 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/BlockRam.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BlockRam'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/MIPSMulticycle.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MIPSMulticycle'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/controlUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlUnit'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/dataPath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dataPath'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/multiplexer2to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexer2to1'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/multiplexer4to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexer4to1'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/register.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sources_1/imports/MIPS_Multicycle/registerBank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registerBank'
+INFO: [VRFC 10-163] Analyzing VHDL file "U:/hlocal/LAB6/project_1_advanced/project_1_advanced.srcs/sim_1/imports/BASICO/MIPS_Multicycle/TestBenchMIPSMulticycle.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TestBenchMIPSMulticycle'
