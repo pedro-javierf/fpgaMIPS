@@ -1,2 +1,2 @@
-# VhdlMIPS
-VHDL source for a BasicMIPS processor for learning purposes
+# fpgaMIPS
+VHDL source for a BasicMIPS processor designed for learning purposes.
